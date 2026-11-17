@@ -1,0 +1,18 @@
+# Python 3.12. torch is the CPU-only build; the line below lets pip find it.
+--extra-index-url https://download.pytorch.org/whl/cpu
+numpy==2.5.4
+scipy==1.18.1
+lightgbm==4.7.0
+narwhals==2.28.0
+numba==0.68.1
+llvmlite==0.50.0
+torch==2.15.0
+filelock==4.2.11
+fsspec==2026.9.0
+Jinja2==3.1.6
+MarkupSafe==3.0.4
+networkx==3.7
+setuptools==84.2.1
+sympy==1.14.0
+mpmath==1.3.0
+typing_extensions==4.16.0
